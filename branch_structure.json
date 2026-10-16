@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1531-fix-app-arbitration-jurors-page-tsx-is-entirely",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1531-fix-app-arbitration-jurors-page-tsx-is-entirely": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1531-fix-app-arbitration-jurors-page-tsx-is-entirely",
+    "origin"
+  ]
+}
